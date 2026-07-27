@@ -60,5 +60,7 @@ Step 7: Finalize and Export
 
 # Output
 
+https://go.fliplink.me/view/94539FC1-8D3B-4C20-BBED-6359CC897F12
 
 # Result
+Based on speed, accuracy, completeness, and ease of understanding, Gemini performed well for multimodal tasks and workflows connected to Google's products, while Claude is more suitable for long-document analysis, software development, and tasks where careful, safety-aware reasoning is a priority.
